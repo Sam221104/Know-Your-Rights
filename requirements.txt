@@ -9,3 +9,4 @@ google-generativeai
 watchdog
 transformers
 sentence-transformers
+langchain-community
