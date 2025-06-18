@@ -1,22 +1,11 @@
-# --- Web App ---
 streamlit
-
-# --- Environment Variables ---
 python-dotenv
-
-# --- LangChain Core ---
 langchain
 langchain-core
-
-# --- Vector Store ---
 faiss-cpu
-
-# --- PDF Parsing ---
 PyPDF2
-
-# --- Gemini Integration ---
 langchain-google-genai
 google-generativeai
-
-# --- Streamlit File Handling (Optional but often needed) ---
 watchdog
+transformers
+sentence-transformers
