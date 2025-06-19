@@ -1,9 +1,11 @@
 # <p align="center"><img src="just_is.gif" alt="Logo" width="80"/><br><strong><span style="font-size: 24px;"> Know Your Rights</span></strong></p>
 
+<p align="center">
+  🌐<a href="https://samsylvester-knowyourrights.streamlit.app/"><strong>Website</strong></a>
+</p>
 
 Know Your Rights is an AI-powered legal assistant that helps users understand their rights under the **Indian Penal Code (IPC)**. The chatbot provides information on fundamental rights, legal procedures, and human rights protections using a knowledge base of Indian legal documents. You can simply ask a question in plain language — like whether a certain action is a crime or what a specific law means — and the chatbot will provide a clear, structured explanation, including punishments, examples, and related laws. Whether you're a student, a concerned citizen, or just curious about your rights, this tool makes complex legal information easy to access and understand.
 
-**Live Website:** [https://samsylvester-knowyourrights.streamlit.app/](https://samsylvester-knowyourrights.streamlit.app/)
 
 ## 📸 Demo
 
